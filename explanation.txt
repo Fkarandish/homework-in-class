@@ -1,0 +1,2 @@
+This is the first Python session !
+Summer 2019!
